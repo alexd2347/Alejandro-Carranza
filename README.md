@@ -1,5 +1,5 @@
 # 💫 About Me:
-I´m currently working on "Secretaria de medio Ambiente"<br>I´m looking to collaborate with others developers<br>I´m currently learning web development and IA<br>Ask me about web design -usability}<br>I´m looking for team working <3<br>
+I´m currently working on "Secretaria de medio Ambiente"<br>I´m looking to collaborate with others developers<br>I´m currently learning web development and IA<br>Ask me about web design -usability<br>I´m looking for team working <3<br>
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@ I´m currently working on "Secretaria de medio Ambiente"<br>I´m looking to coll
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexd2347&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexd2347&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alexd2347&icon=0&color=0)](https://visitcount.itsvg.in)
